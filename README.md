@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiuchoa
-- 👀 I’m interested in data science and back-end
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in data science and BI
+- 🌱 I’m currently learning tools of ETL and AI
 - 💞️ I’m looking to collaborate on study projects
 - 📫 How to reach me: guie32014@gmail.com
 
