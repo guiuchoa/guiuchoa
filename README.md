@@ -1,4 +1,4 @@
-# Olá, eu sou o Gui Uchoa! 👋
+# Olá, eu sou Gui Uchôa! 👋
 
 ## 🚀 Sobre Mim
 Sou um profissional de dados apaixonado por construir soluções completas. Minha trajetória combina a rigorosa **Engenharia de Dados** com a capacidade analítica da **Ciência de Dados**.
@@ -7,7 +7,7 @@ Atualmente, atuo como **Data Scientist**, mas mantenho uma base técnica sólida
 
 - 🔭 **Atualmente trabalhando em:** Projetos de Data Science e Pipelines de ETL escaláveis.
 - 🌱 **Aprendendo:** Aprofundando conhecimentos em IA Generativa e arquiteturas modernas de dados.
-- 👯 **Interesse em colaborar:** Projetos Open Source de Data Engineering e Analytics.
+- 👯 **Interesse em colaborar:** Projetos Open Source de Data Science, Data Engineering e Analytics.
 
 ---
 
