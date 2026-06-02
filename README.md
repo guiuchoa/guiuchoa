@@ -3,11 +3,11 @@
 ## 🚀 Sobre Mim
 Sou um profissional de dados apaixonado por construir soluções completas. Minha trajetória combina a rigorosa **Engenharia de Dados** com a capacidade analítica da **Ciência de Dados**.
 
-Atualmente, atuo como **Data Scientist**, mas mantenho uma base técnica sólida em Back-end e BI, o que me permite não apenas criar modelos, mas também colocá-los em produção e garantir a qualidade dos pipelines de dados.
+Atualmente, atuo como **Machine Learning Engineer**, fazendo uso de ferramentas de CI/CD e IaC, como Terraform, ECS, Step Functions, Lambdas, S3, entre outras. Também mantenho uma base técnica sólida em Back-end e BI, o que me permite não apenas criar modelos, mas também colocá-los em produção e garantir a qualidade dos pipelines de dados.
 
-- 🔭 **Atualmente trabalhando em:** Projetos de Data Science e Pipelines de ETL escaláveis.
+- 🔭 **Atualmente trabalhando em:** Projetos de Machine Learning e Pipelines de ETL escaláveis.
 - 🌱 **Aprendendo:** Aprofundando conhecimentos em IA Generativa e arquiteturas modernas de dados.
-- 👯 **Interesse em colaborar:** Projetos Open Source de Data Science, Data Engineering e Analytics.
+- 👯 **Interesse em colaborar:** Projetos Open Source de Data Science, Machine Learning e Analytics.
 
 ---
 
@@ -27,6 +27,13 @@ Atualmente, atuo como **Data Scientist**, mas mantenho uma base técnica sólida
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**CI/CD & IaC:**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ---
 
